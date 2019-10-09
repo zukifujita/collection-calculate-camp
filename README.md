@@ -2,15 +2,15 @@
 
 ## 使用简介
 
-1.运行所有测试
+1.Run all tests
 ```
 npm test
 ```
-2.运行某个文件夹下的测试
+2.Run tests in one folder
 ```
 npm run test-single specs/filter/
 ```
-3.运行单个文件的测试
+3.Run single test
 ```
 npm run test-single specs/filter/choose_even_spec.js
 ```
