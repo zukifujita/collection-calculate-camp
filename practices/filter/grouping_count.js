@@ -2,7 +2,7 @@
 
 function grouping_count(collection) {
 
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = grouping_count;

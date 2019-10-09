@@ -1,7 +1,7 @@
 'use strict';
 
 function calculate_elements_sum(collection, element) {
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = calculate_elements_sum;

@@ -1,5 +1,5 @@
 function create_updated_collection(collection_a, object_b) {
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = create_updated_collection;

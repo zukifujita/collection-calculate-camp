@@ -2,7 +2,7 @@
 
 function choose_even(collection) {
 
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = choose_even;

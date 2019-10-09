@@ -2,7 +2,7 @@
 
 function average_uneven(collection) {
 
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = average_uneven;

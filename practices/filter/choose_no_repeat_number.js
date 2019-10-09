@@ -2,7 +2,7 @@
 
 function choose_no_repeat_number(collection) {
 
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = choose_no_repeat_number;

@@ -2,7 +2,7 @@
 
 function hybrid_operation_to_uneven(collection) {
 
-  //在这里写入代码
+  //write code here
 }
 
 module.exports = hybrid_operation_to_uneven;
