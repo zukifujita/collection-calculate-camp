@@ -1,6 +1,6 @@
-# JS进阶集合练习
+# JS Collection practise
 
-## 使用简介
+## Instructions
 
 1.Run all tests
 ```
