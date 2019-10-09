@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1.Run all tests
+1.Run all tests
 ```
 npm test
 ```
