@@ -15,7 +15,7 @@ function get_integer_interval_2(number_a, number_b) {
     result.reverse();
   }
 
-  return result;
+  return result
 }
 
 module.exports = get_integer_interval_2;
